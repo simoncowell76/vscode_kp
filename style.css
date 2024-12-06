@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(223, 173, 230);
+    color: darkviolet;
+    font-size: 12px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+#Scottish {
+            color: darkblue;
+            background-color: aqua;
+}
+#Bengali{
+    color: rgb(7, 61, 28);
+    background-color: rgb(71, 189, 96);
+}
+#Savannah{
+    color: rgb(202, 130, 21);
+    background-color: rgb(170, 207, 66);
+}
+
+.fels{
+    color: red;
+}
